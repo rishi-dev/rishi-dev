@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishi-dev
-- 👀 I’m interested in Angular and Front End Development
-- 🌱 I’m currently learning NodeJs
+- 👀 I’m interested in Angular 
+- 🌱 I’m currently learning NodeJs and Python
 
 <!---
 rishi-dev/rishi-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
