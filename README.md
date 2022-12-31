@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rishi-dev
-- 👀 I’m interested in Backend/ SQl development
+- 👀 I’m interested in Backend/ SQL development
 - 🌱 I’m currently learning NodeJs, React Native
 
 <!---
