@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishi-dev
-- 👀 I’m interested in Backend/ SQL development
-- 🌱 I’m currently learning NodeJs, React Native
+- 👀 I’m interested in JAVA Backend/ SQL development / SAP Technical / Typescript
+- 🌱
 
 <!---
 rishi-dev/rishi-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
